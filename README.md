@@ -8,3 +8,5 @@ This README will be updated will new projects everytimes with a description of w
 1. Divisors.py - Takes an integer between 1 and 30 as an input. We then take that number and run it through a range between 1 and 1000 and then append all of the divisors of the given number to a list to then print out. (Project from practicepython.org)
 
 2. listOverlap.py - Takes two lists and find the numbers that are in common with each list or the intersection and prints them out. (Project from practicepython.org)
+
+3. stringlist.py - Checks to see if a given word is a palindrome or not.
